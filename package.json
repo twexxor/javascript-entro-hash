@@ -26,10 +26,10 @@
   "name": "@entrocraft/entro-hash",
   "repository": {
     "type": "git",
-    "url": "https://github.com/twexxor/entro-hash.git"
+    "url": "https://github.com/twexxor/javascript-entro-hash.git"
   },
   "scripts": {
     "test": "node test"
   },
-  "version": "1.0.6"
+  "version": "1.0.7"
 }
