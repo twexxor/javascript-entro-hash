@@ -1,0 +1,32 @@
+{
+  "author": {
+    "name": "Will Parsons",
+    "url": "https://www.linkedin.com/in/twexxor/"
+  },
+  "bugs": {
+    "url": "https://entrocraft.com/contact/"
+  },
+  "description": "Entro Hash is a 32-bit, non-cryptographic hashing algorithm.",
+  "funding": "https://entrocraft.com/pricing/",
+  "homepage": "https://entrocraft.com/dungeon/hashing-algorithms/entro-hash/",
+  "keywords": [
+    "browser",
+    "checksum",
+    "client-side",
+    "digest",
+    "fingerprint",
+    "hash",
+    "hasher",
+    "hashing",
+    "non-cryptographic",
+    "server-side",
+    "sum"
+  ],
+  "license": "MIT",
+  "name": "@entrocraft/entro-hash",
+  "repository": "github:twexxor/javascript-entro-hash",
+  "scripts": {
+    "test": "node test"
+  },
+  "version": "1.0.5"
+}
