@@ -24,9 +24,12 @@
   ],
   "license": "MIT",
   "name": "@entrocraft/entro-hash",
-  "repository": "github:twexxor/javascript-entro-hash",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/twexxor/entro-hash.git"
+  },
   "scripts": {
     "test": "node test"
   },
-  "version": "1.0.5"
+  "version": "1.0.6"
 }
